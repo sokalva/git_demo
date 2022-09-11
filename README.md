@@ -1,4 +1,3 @@
 # git_demo
 
-first change
-second change
+ubuntu change
